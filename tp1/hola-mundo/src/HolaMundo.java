@@ -1,0 +1,8 @@
+// Punto 1
+public class HolaMundo {
+
+    public static void main(String[] args) {
+        System.out.println("Holan Java");
+    }
+    
+}
